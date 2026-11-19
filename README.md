@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doyxn! I'm an undergraduate student at Purdue University. 
+- 👋 Hi, I’m @doyxn! I like math!
  
 ![](https://komarev.com/ghpvc/?username=doyxn&color=ededd1&style=plastic)
 
